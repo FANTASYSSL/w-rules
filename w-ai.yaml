@@ -1,4 +1,9 @@
 payload:
+  # 客户端进程
+  - PROCESS-PATH-REGEX,/Applications/Antigravity.app/
+  - PROCESS-NAME,Antigravity Helper
+  - PROCESS-PATH-REGEX,/Applications/Claude.app/
+  - PROCESS-NAME,Claude Helper
   # 核心域名
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
@@ -6,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,anthropicusercontent.com
   # CDN 和静态资源
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,anthropic.com.cdn.cloudflare.net
@@ -26,5 +32,4 @@ payload:
   - IP-CIDR,160.79.104.0/21,no-resolve
   - IP-CIDR6,2607:6bc0::/32,no-resolve
   - IP-ASN,399358,no-resolve
-
 
