@@ -21,6 +21,7 @@ payload:
   # 监控和遥测
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,posthog.com
   - DOMAIN,browser-intake-us5-datadoghq.com
   - DOMAIN-KEYWORD,datadog
   - DOMAIN-KEYWORD,sift
