@@ -1,3 +1,31 @@
 payload:
   - DOMAIN-SUFFIX,pstmn.io
   - DOMAIN-SUFFIX,warp.dev
+
+  # Binance
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.vision
+  - DOMAIN-SUFFIX,binancefuture.com
+
+  # OKX
+  - DOMAIN-SUFFIX,okx.com
+
+  # Bitget
+  - DOMAIN-SUFFIX,bitget.com
+
+  # Gate.io
+  - DOMAIN-SUFFIX,gateio.ws
+  - DOMAIN-SUFFIX,gateapi.io
+  - DOMAIN-SUFFIX,gate.com
+  - DOMAIN-SUFFIX,gate.io
+
+  # Bybit
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bytick.com
+  - DOMAIN-SUFFIX,bybit.nl
+  - DOMAIN-SUFFIX,bybit.tr
+  - DOMAIN-SUFFIX,bybit.kz
+  - DOMAIN-SUFFIX,bybitgeorgia.ge
+  - DOMAIN-SUFFIX,bybit.ae
+  - DOMAIN-SUFFIX,bybit.eu
+  - DOMAIN-SUFFIX,bybit.id
