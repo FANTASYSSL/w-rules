@@ -29,3 +29,16 @@ payload:
   - DOMAIN-SUFFIX,bybit.ae
   - DOMAIN-SUFFIX,bybit.eu
   - DOMAIN-SUFFIX,bybit.id
+
+  # Crypto gift card stores
+  - DOMAIN-SUFFIX,cryptomate.store
+  - DOMAIN-SUFFIX,kryptomate.com
+  - DOMAIN-SUFFIX,tokenstore.io
+  - DOMAIN-SUFFIX,kingiftcard.com
+  - DOMAIN-SUFFIX,uquid.com
+  - DOMAIN-SUFFIX,dotmart.net
+  - DOMAIN-SUFFIX,coingate.com
+  - DOMAIN-SUFFIX,seagm.com
+  - DOMAIN-SUFFIX,pockyt.io
+  - DOMAIN-SUFFIX,appstoreprice.org
+  - DOMAIN-SUFFIX,anyrouter.top
