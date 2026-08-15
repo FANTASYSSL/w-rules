@@ -2,7 +2,6 @@ payload:
   - DOMAIN-SUFFIX,pstmn.io
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,oyunfor.com
-  - DOMAIN-SUFFIX,oup.com
 
   # Binance
   - DOMAIN-SUFFIX,binance.com
