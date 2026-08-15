@@ -1,2 +1,17 @@
 payload:
+  # Applications
+  - PROCESS-NAME,z-code
+  - PROCESS-PATH-REGEX,/Applications/Typeless.app/
+  - PROCESS-NAME,Typeless Helper
+  - PROCESS-NAME,App Cleaner 8
+
+  # Domains
+  - DOMAIN-SUFFIX,ryiplay18.com
+  - DOMAIN-SUFFIX,zcode-ai.com
+  - DOMAIN-SUFFIX,jimxtc.com
+  - DOMAIN-SUFFIX,555k12.com
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,datasink.sensorsdata.cn
+  - DOMAIN-SUFFIX,trycloudflare.com
+  - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,oup.com
